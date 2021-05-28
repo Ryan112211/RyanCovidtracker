@@ -136,7 +136,7 @@ setmapZoom(4);
   <h3 className="app__text">Worldwide New  {casesType}</h3>
   <LineGraph className="app__graph" casesType={casesType}>
 
-  </LineGraph>s
+  </LineGraph>
 
 </CardContent>
 
